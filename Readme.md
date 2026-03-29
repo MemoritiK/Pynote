@@ -69,9 +69,21 @@ Run a file interactively:
 %step myscript.py
 ```
 
+For help:
+```python
+%help
+```
+
 ## Terminal Requirements
 
 Sixel graphics require a terminal with Sixel support: iTerm2 (macOS), foot, WezTerm, mlterm, or Windows Terminal with Sixel enabled. Without Sixel, plots display as text representation.
+
+
+## Results 
+<img width="878" height="1003" alt="image" src="https://github.com/user-attachments/assets/25ae2994-6f81-4433-bb45-bbe1d8d149c0" />
+<img width="626" height="582" alt="image" src="https://github.com/user-attachments/assets/42ff53b5-6bdd-450c-9ef3-2675f9e4033a" />
+<img width="826" height="505" alt="image" src="https://github.com/user-attachments/assets/df78d0b5-bbce-4213-9e5a-cfa5af707cf9" />
+
 
 ## License
 
